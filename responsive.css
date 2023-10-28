@@ -1,0 +1,20 @@
+@media screen and (max-width:800px) {
+
+    .contain{
+        width: 90vw;
+        height: 550px;
+    }
+    .container{
+        align-items: center;
+        flex-direction: column;
+    }
+main{
+    align-items: baseline;
+}
+.summary{
+    margin: 50px 0 0 0;
+}
+.three{
+    margin: 40px 0 60PX 0px;
+}
+}
